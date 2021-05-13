@@ -1,0 +1,1 @@
+recipes.addShaped(<cyclicmagic:block_user>, [[<thermalfoundation:storage_alloy:1>, <minecraft:dispenser>, <thermalfoundation:storage_alloy:1>],[<tconstruct:firewood>, <tconstruct:firewood>, <tconstruct:firewood>], [<extrautils2:compressedcobblestone:2>, <extrautils2:compressedcobblestone:2>, <extrautils2:compressedcobblestone:2>]]);

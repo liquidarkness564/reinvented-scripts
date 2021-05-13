@@ -1,0 +1,1 @@
+recipes.addShaped(<ceramics:clay_bucket>, [[<minecraft:clay>, null, <minecraft:clay>],[<minecraft:clay>, <minecraft:clay>, <minecraft:clay>], [<extrautils2:compressedcobblestone>, <minecraft:clay>, <extrautils2:compressedcobblestone>]]);

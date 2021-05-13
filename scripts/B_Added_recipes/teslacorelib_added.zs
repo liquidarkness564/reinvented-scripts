@@ -1,0 +1,1 @@
+recipes.addShaped(<teslacorelib:machine_case>, [[<industrialforegoing:plastic>, <actuallyadditions:block_crystal>, <industrialforegoing:plastic>],[<actuallyadditions:block_crystal>, <actuallyadditions:block_misc:9>, <actuallyadditions:block_crystal>], [<industrialforegoing:plastic>, <actuallyadditions:block_crystal>, <industrialforegoing:plastic>]]);

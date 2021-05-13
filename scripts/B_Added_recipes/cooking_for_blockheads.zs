@@ -1,0 +1,1 @@
+recipes.addShaped(<cookingforblockheads:sink>, [[<actuallyadditions:item_crystal:5>, <actuallyadditions:item_crystal:5>, <actuallyadditions:item_crystal:5>],[<minecraft:hardened_clay>, <minecraft:water_bucket>, <minecraft:hardened_clay>], [<minecraft:hardened_clay>, <minecraft:hardened_clay>, <minecraft:hardened_clay>]]);

@@ -1,0 +1,2 @@
+recipes.addShaped(<immersiveengineering:sheetmetal:10>, [[null, <thermalfoundation:material:33>, null],[<thermalfoundation:material:33>, null, <thermalfoundation:material:33>], [null, <thermalfoundation:material:33>, null]]);
+recipes.addShaped(<immersiveengineering:sheetmetal:9>, [[null, <thermalfoundation:material:32>, null],[<thermalfoundation:material:32>, null, <thermalfoundation:material:32>], [null, <thermalfoundation:material:32>, null]]);

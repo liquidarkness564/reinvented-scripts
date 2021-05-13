@@ -1,0 +1,2 @@
+recipes.addShaped(<solarflux:solar_panel_1>, [[<solarflux:mirror>, <solarflux:mirror>, <solarflux:mirror>],[<minecraft:planks:*>, <actuallyadditions:item_crystal>, <minecraft:planks:*>], [<minecraft:planks:*>, <minecraft:planks:*>, <minecraft:planks:*>]]);
+recipes.addShaped(<solarflux:mirror>, [[null, null, null],[<minecraft:glass>, <minecraft:glass>, <minecraft:glass>], [null, <actuallyadditions:item_crystal:5>, null]]);

@@ -1,0 +1,1 @@
+recipes.addShaped(<snad:snad>, [[<extrautils2:compressedsand>, <minecraft:dye:15>, <extrautils2:compressedsand>],[<minecraft:dye:15>, <extrautils2:compressedsand>, <minecraft:dye:15>], [<extrautils2:compressedsand>, <minecraft:dye:15>, <extrautils2:compressedsand>]]);

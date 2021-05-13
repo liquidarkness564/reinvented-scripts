@@ -1,0 +1,3 @@
+recipes.addShaped(<tp:iron_cobblegen_block>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],[<minecraft:iron_block>, <tp:cobblegen_block>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
+recipes.addShaped(<tp:cobblegen_block>, [[<quark:reed_block>, <extrautils2:compressedcobblestone>, <quark:reed_block>],[<minecraft:water_bucket>, <minecraft:glass>, <minecraft:lava_bucket>], [<quark:reed_block>, <extrautils2:compressedcobblestone>, <quark:reed_block>]]);
+recipes.addShaped(<tp:double_compressed_sugar_cane>, [[<quark:reed_block>, <quark:reed_block>, <quark:reed_block>],[<quark:reed_block>, <quark:reed_block>, <quark:reed_block>], [<quark:reed_block>, <quark:reed_block>, <quark:reed_block>]]);

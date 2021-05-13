@@ -1,0 +1,27 @@
+recipes.addShaped(<minecraft:stick> * 4, [[<minecraft:log:*>], [<minecraft:log:*>]]);
+recipes.addShaped(<minecraft:stick> * 2, [[<minecraft:planks:*>], [<minecraft:planks:*>]]);
+recipes.addShaped(<minecraft:bucket>, [[null, null, null],[<thermalfoundation:material:32>, null, <thermalfoundation:material:32>], [null, <thermalfoundation:material:32>, null]]);
+recipes.addShaped(<minecraft:chest>, [[<minecraft:planks:*>, <minecraft:planks:*>, <minecraft:planks:*>],[<minecraft:planks:*>, null, <minecraft:planks:*>], [<minecraft:planks:*>, <minecraft:planks:*>, <minecraft:planks:*>]]);
+recipes.addShaped(<minecraft:furnace>, [[<extrautils2:compressedcobblestone>, <extrautils2:compressedcobblestone>, <extrautils2:compressedcobblestone>],[<exnihilocreatio:item_ore_iron:1>, null, <exnihilocreatio:item_ore_iron:1>], [<extrautils2:compressedcobblestone>, <extrautils2:compressedcobblestone>, <extrautils2:compressedcobblestone>]]);
+recipes.addShaped(<minecraft:quartz>, [[<appliedenergistics2:material:2>, <appliedenergistics2:material:2>, <minecraft:glowstone_dust>],[<appliedenergistics2:material:2>, <minecraft:glowstone_dust>, <minecraft:glowstone_dust>], [null, null, null]]);
+recipes.addShapeless(<minecraft:hopper>, [<uppers:upper>]);
+recipes.addShaped(<minecraft:hopper>, [[<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],[<minecraft:iron_ingot>, <minecraft:chest>, <minecraft:iron_ingot>], [<extrautils2:compressedcobblestone>, <minecraft:iron_block>, <extrautils2:compressedcobblestone>]]);
+recipes.addShaped(<minecraft:chest> * 2, [[<minecraft:log:*>, <minecraft:log:*>, <minecraft:log:*>],[<minecraft:log:*>, null, <minecraft:log:*>], [<minecraft:log:*>, <minecraft:log:*>, <minecraft:log:*>]]);
+recipes.addShaped(<minecraft:flint>, [[<minecraft:gravel>, <minecraft:gravel>, <minecraft:gravel>],[null, null, null], [<minecraft:gravel>, <minecraft:gravel>, <minecraft:gravel>]]);
+recipes.addShaped(<minecraft:cobblestone>, [[<riteclicker:pebs>, <riteclicker:pebs>, <riteclicker:pebs>],[<riteclicker:pebs>, <riteclicker:pebs>, <riteclicker:pebs>], [<riteclicker:pebs>, <riteclicker:pebs>, <riteclicker:pebs>]]);
+recipes.addShapeless(<minecraft:planks:5> * 2, [<minecraft:dark_oak_stairs>,<minecraft:dark_oak_stairs>,<minecraft:dark_oak_stairs>,<minecraft:dark_oak_stairs>]);
+recipes.addShapeless(<minecraft:planks:4> * 2, [<minecraft:acacia_stairs>,<minecraft:acacia_stairs>,<minecraft:acacia_stairs>,<minecraft:acacia_stairs>]);
+recipes.addShapeless(<minecraft:planks:3> * 2, [<minecraft:jungle_stairs>,<minecraft:jungle_stairs>,<minecraft:jungle_stairs>,<minecraft:jungle_stairs>]);
+recipes.addShapeless(<minecraft:planks:5>, [<minecraft:log2:1>]);
+recipes.addShapeless(<minecraft:planks:4> * 2, [<minecraft:log2>]);
+recipes.addShapeless(<minecraft:planks:3> * 2, [<minecraft:log:3>]);
+recipes.addShapeless(<minecraft:planks:2> * 2, [<minecraft:birch_stairs>,<minecraft:birch_stairs>,<minecraft:birch_stairs>,<minecraft:birch_stairs>]);
+recipes.addShapeless(<minecraft:planks:1> * 2, [<minecraft:spruce_stairs>,<minecraft:spruce_stairs>,<minecraft:spruce_stairs>,<minecraft:spruce_stairs>]);
+recipes.addShapeless(<minecraft:planks> * 2, [<minecraft:oak_stairs>,<minecraft:oak_stairs>,<minecraft:oak_stairs>,<minecraft:oak_stairs>]);
+recipes.addShapeless(<minecraft:planks:2> * 2, [<minecraft:log:2>]);
+recipes.addShapeless(<minecraft:planks:1> * 2, [<minecraft:log:1>]);
+recipes.addShapeless(<minecraft:planks> * 2, [<minecraft:log>]);
+recipes.addShapeless(<minecraft:cobblestone> * 9, [<extrautils2:compressedcobblestone>]);
+recipes.addShapeless(<minecraft:reeds> * 4, [<quark:reed_block>]);
+recipes.addShaped(<minecraft:reeds> * 16, [[null, <mysticalagriculture:nature_essence>, null],[<mysticalagriculture:nature_essence>, <mysticalagriculture:nature_essence>, <mysticalagriculture:nature_essence>], [<mysticalagriculture:nature_essence>, null, <mysticalagriculture:nature_essence>]]);
+
